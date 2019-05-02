@@ -6,6 +6,15 @@ Time Spent: 16 Hours
 
 Objective: Setup honeypot and understand how attacks are carried out using it.
 
+Honeypots Deployed: Ubuntu - Dionaea with HTTP
+
+Issues Encountered: Setting up the virtual machine instances and making sure the firewall settings are correct.
+
+Summary: - 34 Attacks
+          -Top Attacked Port 9099 (6 Times)
+          - Top Attacked IP 118.172.223.96
+
+
 
 REQUIRED
 
